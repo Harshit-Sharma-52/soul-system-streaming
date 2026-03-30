@@ -72,11 +72,8 @@ npm run build
 ---
 Deploy by connecting your repo to Vercel.
 
-🖼 Screenshots
 
-[SSS-mockups.png](https://github.com/lena-lee/soul-system-player-github/blob/main/public/img/SSS-mockups.png)
 
----
 📌 Case Study Notes
 
 Problem: Needed a branded, mobile-friendly streaming experience for the Soul System album.
